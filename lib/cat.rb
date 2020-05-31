@@ -1,3 +1,5 @@
 class Cat
-  # code goes here
+  def name
+    puts name
+  end
 end
